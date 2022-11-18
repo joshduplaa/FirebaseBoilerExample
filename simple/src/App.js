@@ -3,7 +3,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <p>fuck me daddy</p>
+      <p>BoilerPlate</p>
     </div>
   );
 }
